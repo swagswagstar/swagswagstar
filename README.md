@@ -1,4 +1,5 @@
-### Hi there 👋
+### hi
+i dont feel like editing this, so check out my [carrd](zekticezy.carrd.co)
 
 <!--
 **zekticezy/zekticezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
