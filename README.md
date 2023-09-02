@@ -1,5 +1,4 @@
 # Intro
-![rockstar made](https://github.com/zekticezy/zekticezy/blob/main/Untitled311_20230422174714.png?raw=true)
 I'm a 14 year old software developer, "entrepreneur" and game designer. I'm also a music producer, but we're on GitHub, so that doesn't matter. I'm self-taught since I was 11, so I'm *fairly* new to this, but I'm still eager to work and help.
 
 ## Languages I Use/Know
