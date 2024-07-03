@@ -1,5 +1,5 @@
 # Intro
-I'm a 14 year old software developer, "entrepreneur" and game designer. I'm also a music producer, but we're on GitHub, so that doesn't matter. I'm self-taught since I was 11, so I'm *fairly* new to this, but I'm still eager to work and help.
+I'm a 15 year old software developer, "entrepreneur" and game designer. I'm also a music producer, but we're on GitHub, so that doesn't matter. I'm self-taught since I was 11, so I'm *fairly* new to this, but I'm still eager to work and help.
 
 ## Languages I Use/Know
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
