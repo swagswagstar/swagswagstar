@@ -35,7 +35,7 @@ I'm a 15 year old software developer, "entrepreneur" and game designer. I'm also
 
 -  I'm not very busy, I'm working on several projects like a game with *Unity* & *C#*.  
 -  If you're interested in helping me, check out my pins. That's what I mostly work on. 
--  Get in contact with me by visiting my website's [contact page](https://zekticezy.github.io/contact.html).
+-  Get in contact with me by visiting my website's [contact page](https://zekkie.dev/contact.html).
 -  My pronouns are **he/him.**
 
-If you're intrested enough, you can check out my [website](https://zekticezy.github.io/).
+If you're intrested enough, you can check out my [website](https://zekkie.dev/).
