@@ -1,6 +1,5 @@
 # Intro
-Heya!
-My name's Adonis/Donnie but I go by zekkie/zekticezy.
+Heya! My name's Adonis/Donnie but I go by zekkie/zekticezy.
 
 I'm 15. I make games and software, alone or in a team.
 I've made some projects, check out my pinned repositories.
