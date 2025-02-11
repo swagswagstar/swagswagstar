@@ -1,7 +1,7 @@
 # Intro
-Heya! My name's zekkie/zekticezy.
+Heya! My name's zekkie.
 
-I'm 15. I make games and software, alone or in a team.
+I'm 16. I make games and software, alone or in a team.
 I've made some projects, check out my pinned repositories.
 
 Below are the languages, frameworks, software and operating systems I use.
@@ -42,10 +42,3 @@ Below are the languages, frameworks, software and operating systems I use.
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-# Stats
-![zekticezy's Stats](https://github-readme-stats.vercel.app/api?username=zekticezy&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-
-![zekticezy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zekticezy&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-
-If you want to get in contact with me, you can check out my [website](https://zekkie.dev/contact.html/).
