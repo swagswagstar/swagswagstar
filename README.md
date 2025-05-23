@@ -1,5 +1,7 @@
 ![image](https://github.com/user-attachments/assets/2ffb2b71-e54d-4b4f-b267-27150006d086)
 
+![freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white) Hire me to do your work or something idk
+
 ## languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
