@@ -36,5 +36,4 @@
 
 # stats
 ![swagswagstar's Stats](https://github-readme-stats.vercel.app/api?username=swagswagstar&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![swagswagstar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=swagswagstar&theme=vue-dark&hide_border=false)
 ![swagswagstar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swagswagstar&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
